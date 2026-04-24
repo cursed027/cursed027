@@ -2,10 +2,13 @@
 
 <div align="center">
 
-<!-- Typing SVG Banner -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6E40C9&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Milan+Kumar+Singh+%F0%9F%91%8B;Deep+Learning+Researcher;Image+Restoration+%7C+Super-Resolution;CVPRW+2026+%7C+NTIRE+Competitor)](https://git.io/typing-svg)
+<!-- 🔁 REPLACE the src below with your chosen gif URL or repo path e.g. ./assets/cozy.gif -->
+<! <img src="https://64.media.tumblr.com/ecc6aa30cfb7830a0a585dfa4255e767/5f94298d0afc2598-42/s1280x1920/33c8824b5a07117b96cc192fd886a8c4f1af8ac4.gifv" width="220" alt="cozy gif"/> -->
 
-<img src="https://komarev.com/ghpvc/?username=cursed027&style=flat-square&color=6E40C9" alt="Profile views"/>
+<!-- Typing SVG Banner — Space Grotesk font, warm red tone -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=28&duration=3000&pause=1000&color=FF4655&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Milan+Kumar+Singh+%F0%9F%91%8B;Deep+Learning+Researcher;Image+Restoration+%7C+Super-Resolution;CVPRW+2026+%7C+NTIRE+Competitor)](https://git.io/typing-svg)
+
+<img src="https://komarev.com/ghpvc/?username=cursed027&style=flat-square&color=FF4655" alt="Profile views"/>
 
 </div>
 
@@ -20,7 +23,7 @@ milan = {
     "papers"      : ["CVPRW 2026 (MELD-SR)", "Springer CCIS — NCVPRIPG 2025 (PRISM)"],
     "role"        : "Research Head @ Sillycon AI Labs",
     "competing"   : "NTIRE 2025 & 2026 — Top-20 finishes across 4 tracks",
-    "currently"   : "Building efficient image restoration architectures",
+    "status"      : "🔍 Hunting for real-world chaos to throw models at",
 }
 ```
 
@@ -46,6 +49,7 @@ milan = {
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 **AI / DL Frameworks**
 
@@ -53,11 +57,14 @@ milan = {
 ![scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 
 **Architectures I work with**
 
 ![Transformers](https://img.shields.io/badge/Transformers-FF6F00?style=for-the-badge&logo=huggingface&logoColor=white)
-![Diffusion Models](https://img.shields.io/badge/Diffusion_Models-6E40C9?style=for-the-badge)
+![Diffusion Models](https://img.shields.io/badge/Diffusion_Models-FF4655?style=for-the-badge)
 ![CNNs](https://img.shields.io/badge/CNNs-00B4D8?style=for-the-badge)
 ![LSTMs](https://img.shields.io/badge/LSTMs-0077B6?style=for-the-badge)
 
@@ -76,13 +83,6 @@ milan = {
 <div align="center">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cursed027&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cursed027&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=cursed027&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
@@ -92,9 +92,9 @@ milan = {
 
 | Project | Description | Result |
 |---|---|---|
-| [🌧️ Lumi-Drop](https://github.com/cursed027) | Restormer + Day/Night NAFNet experts with dynamic luminance routing for raindrop removal | PSNR 27.57 dB · NTIRE'26 Rank 12 |
-| [📐 MELD-SR](https://github.com/cursed027) | Frequency-guided (DCT/DWT/FFT) multi-expert SR fusion — published at CVPRW 2026 | 31.48 dB · Rank 17/19 |
-| [🔊 WREN](https://github.com/cursed027) | Heterogeneous ensemble denoising (Restormer + NAFNet) with learnable softmax mixing | PSNR 28.99 dB · NTIRE'26 Rank 13 |
+| [🌧️ Lumi-Drop]([https://github.com/cursed027](https://github.com/abhishek-3740/NTIRE_Raindrop_Clarity)) | Restormer + Day/Night NAFNet experts with dynamic luminance routing for raindrop removal | PSNR 27.57 dB · NTIRE'26 Rank 12 |
+| [📐 MELD-SR](https://github.com/Nikhil-AI-Labs/Image-Super-Resolution) | Frequency-guided (DCT/DWT/FFT) multi-expert SR fusion — published at CVPRW 2026 | 31.48 dB · Rank 17/19 |
+| [🔊 WREN]([https://github.com/cursed027](https://github.com/aagamjnug20/ML-SVNIT)) | Heterogeneous ensemble denoising (Restormer + NAFNet) with learnable softmax mixing | PSNR 28.99 dB · NTIRE'26 Rank 13 |
 | [🔋 Battery Anomaly Detection](https://github.com/cursed027/Battery-Anamoly-Detector) | End-to-end LSTM Autoencoder + FastAPI/Streamlit + CI/CD on AWS EC2 | Production MLOps system |
 | [🧠 DL Implementations](https://github.com/cursed027/DL-IMPLEMENTATION) | PyTorch implementations of neural nets on standard benchmarks | Learning resource |
 
@@ -103,7 +103,7 @@ milan = {
 ## 📄 Publications
 
 - **MELD-SR**: Multi-Expert Learned Decomposition Using Frequency Guidance — *CVPRW 2026*
-- **PRISM**: Progressive Regional Integration with Synergetic Multi-attention Transformer for SISR — *Springer CCIS, NCVPRIPG 2025*
+- **PRISM**: Progressive Regional Integration with Synergetic Multi-attention Transformer for SISR — *Springer CCIS, NCVPRIPG 2025(https://link.springer.com/chapter/10.1007/978-3-032-08511-5_11)*
 
 ---
 
@@ -115,10 +115,4 @@ milan = {
 [![GitHub](https://img.shields.io/badge/GitHub-cursed027-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cursed027)
 [![Email](https://img.shields.io/badge/Email-milanpvt027@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:milanpvt027@gmail.com)
 
-</div>
-
----
-
-<div align="center">
-<i>"Research is what I'm doing when I don't know what I'm doing." — Wernher von Braun</i>
 </div>
