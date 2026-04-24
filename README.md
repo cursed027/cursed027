@@ -1,5 +1,5 @@
 <!-- GIF floated right so typing SVG + badge sit naturally to its left -->
-<img src="https://64.media.tumblr.com/ecc6aa30cfb7830a0a585dfa4255e767/5f94298d0afc2598-42/s1280x1920/33c8824b5a07117b96cc192fd886a8c4f1af8ac4.gifv" align="right" width="380" alt="cozy gif"/>
+<img src="https://64.media.tumblr.com/ecc6aa30cfb7830a0a585dfa4255e767/5f94298d0afc2598-42/s1280x1920/33c8824b5a07117b96cc192fd886a8c4f1af8ac4.gifv" align="right" width="400" alt="cozy gif"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=28&duration=3000&pause=1000&color=FF4655&center=false&vCenter=true&width=550&lines=Hi%2C+I'm+Milan+Kumar+Singh+%F0%9F%91%8B;Deep+Learning+Researcher;Image+Restoration+%7C+Super-Resolution;CVPRW+2026+%7C+NTIRE+Competitor)](https://git.io/typing-svg)
 
