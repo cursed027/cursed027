@@ -9,7 +9,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=cursed027&style=flat-square&color=FF4655" alt="Profile views"/>
 
-! <img src="https://64.media.tumblr.com/ecc6aa30cfb7830a0a585dfa4255e767/5f94298d0afc2598-42/s1280x1920/33c8824b5a07117b96cc192fd886a8c4f1af8ac4.gifv" alt="cozy gif">
+<img src="https://64.media.tumblr.com/ecc6aa30cfb7830a0a585dfa4255e767/5f94298d0afc2598-42/s1280x1920/33c8824b5a07117b96cc192fd886a8c4f1af8ac4.gifv" alt="cozy gif">
 
 </div>
 
@@ -93,9 +93,9 @@ milan = {
 
 | Project | Description | Result |
 |---|---|---|
-| [🌧️ Lumi-Drop]([https://github.com/cursed027](https://github.com/abhishek-3740/NTIRE_Raindrop_Clarity)) | Restormer + Day/Night NAFNet experts with dynamic luminance routing for raindrop removal | PSNR 27.57 dB · NTIRE'26 Rank 12 |
+| [🌧️ Lumi-Drop](https://github.com/cursed027](https://github.com/abhishek-3740/NTIRE_Raindrop_Clarity) | Restormer + Day/Night NAFNet experts with dynamic luminance routing for raindrop removal | PSNR 27.57 dB · NTIRE'26 Rank 12 |
 | [📐 MELD-SR](https://github.com/Nikhil-AI-Labs/Image-Super-Resolution) | Frequency-guided (DCT/DWT/FFT) multi-expert SR fusion — published at CVPRW 2026 | 31.48 dB · Rank 17/19 |
-| [🔊 WREN]([https://github.com/cursed027](https://github.com/aagamjnug20/ML-SVNIT)) | Heterogeneous ensemble denoising (Restormer + NAFNet) with learnable softmax mixing | PSNR 28.99 dB · NTIRE'26 Rank 13 |
+| [🔊 WREN](https://github.com/cursed027](https://github.com/aagamjnug20/ML-SVNIT) | Heterogeneous ensemble denoising (Restormer + NAFNet) with learnable softmax mixing | PSNR 28.99 dB · NTIRE'26 Rank 13 |
 | [🔋 Battery Anomaly Detection](https://github.com/cursed027/Battery-Anamoly-Detector) | End-to-end LSTM Autoencoder + FastAPI/Streamlit + CI/CD on AWS EC2 | Production MLOps system |
 | [🧠 DL Implementations](https://github.com/cursed027/DL-IMPLEMENTATION) | PyTorch implementations of neural nets on standard benchmarks | Learning resource |
 
