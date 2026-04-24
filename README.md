@@ -1,17 +1,11 @@
-## Not Done Yet 〰️
+<!-- GIF floated right so typing SVG + badge sit naturally to its left -->
+<img src="https://64.media.tumblr.com/ecc6aa30cfb7830a0a585dfa4255e767/5f94298d0afc2598-42/s1280x1920/33c8824b5a07117b96cc192fd886a8c4f1af8ac4.gifv" align="right" width="280" alt="cozy gif"/>
 
-<div align="center">
-
-<!-- 🔁 REPLACE the src below with your chosen gif URL or repo path e.g. ./assets/cozy.gif -->
-
-<!-- Typing SVG Banner — Space Grotesk font, warm red tone -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=28&duration=3000&pause=1000&color=FF4655&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Milan+Kumar+Singh+%F0%9F%91%8B;Deep+Learning+Researcher;Image+Restoration+%7C+Super-Resolution;CVPRW+2026+%7C+NTIRE+Competitor)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=28&duration=3000&pause=1000&color=FF4655&center=false&vCenter=true&width=550&lines=Hi%2C+I'm+Milan+Kumar+Singh+%F0%9F%91%8B;Deep+Learning+Researcher;Image+Restoration+%7C+Super-Resolution;CVPRW+2026+%7C+NTIRE+Competitor)](https://git.io/typing-svg)
 
 <img src="https://komarev.com/ghpvc/?username=cursed027&style=flat-square&color=FF4655" alt="Profile views"/>
 
-<img src="https://64.media.tumblr.com/ecc6aa30cfb7830a0a585dfa4255e767/5f94298d0afc2598-42/s1280x1920/33c8824b5a07117b96cc192fd886a8c4f1af8ac4.gifv" alt="cozy gif">
-
-</div>
+<br clear="right"/>
 
 ---
 
@@ -81,11 +75,7 @@ milan = {
 
 ## 📊 GitHub Stats
 
-<div align="center">
-
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cursed027&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-</div>
 
 ---
 
@@ -93,9 +83,9 @@ milan = {
 
 | Project | Description | Result |
 |---|---|---|
-| [🌧️ Lumi-Drop](https://github.com/cursed027](https://github.com/abhishek-3740/NTIRE_Raindrop_Clarity) | Restormer + Day/Night NAFNet experts with dynamic luminance routing for raindrop removal | PSNR 27.57 dB · NTIRE'26 Rank 12 |
+| [🌧️ Lumi-Drop](https://github.com/abhishek-3740/NTIRE_Raindrop_Clarity) | Restormer + Day/Night NAFNet experts with dynamic luminance routing for raindrop removal | PSNR 27.57 dB · NTIRE'26 Rank 12 |
 | [📐 MELD-SR](https://github.com/Nikhil-AI-Labs/Image-Super-Resolution) | Frequency-guided (DCT/DWT/FFT) multi-expert SR fusion — published at CVPRW 2026 | 31.48 dB · Rank 17/19 |
-| [🔊 WREN](https://github.com/cursed027](https://github.com/aagamjnug20/ML-SVNIT) | Heterogeneous ensemble denoising (Restormer + NAFNet) with learnable softmax mixing | PSNR 28.99 dB · NTIRE'26 Rank 13 |
+| [🔊 WREN](https://github.com/aagamjnug20/ML-SVNIT) | Heterogeneous ensemble denoising (Restormer + NAFNet) with learnable softmax mixing | PSNR 28.99 dB · NTIRE'26 Rank 13 |
 | [🔋 Battery Anomaly Detection](https://github.com/cursed027/Battery-Anamoly-Detector) | End-to-end LSTM Autoencoder + FastAPI/Streamlit + CI/CD on AWS EC2 | Production MLOps system |
 | [🧠 DL Implementations](https://github.com/cursed027/DL-IMPLEMENTATION) | PyTorch implementations of neural nets on standard benchmarks | Learning resource |
 
@@ -104,7 +94,7 @@ milan = {
 ## 📄 Publications
 
 - **MELD-SR**: Multi-Expert Learned Decomposition Using Frequency Guidance — *CVPRW 2026*
-- **PRISM**: Progressive Regional Integration with Synergetic Multi-attention Transformer for SISR — *Springer CCIS, NCVPRIPG 2025(https://link.springer.com/chapter/10.1007/978-3-032-08511-5_11)*
+- **PRISM**: Progressive Regional Integration with Synergetic Multi-attention Transformer for SISR — [*Springer CCIS, NCVPRIPG 2025*](https://link.springer.com/chapter/10.1007/978-3-032-08511-5_11)
 
 ---
 
@@ -112,8 +102,8 @@ milan = {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-milan27-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/milan27)
-[![GitHub](https://img.shields.io/badge/GitHub-cursed027-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cursed027)
-[![Email](https://img.shields.io/badge/Email-milanpvt027@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:milanpvt027@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-milan27-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/milan27)
+[![GitHub](https://img.shields.io/badge/-cursed027-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cursed027)
+[![Email](https://img.shields.io/badge/-milanpvt027@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:milanpvt027@gmail.com)
 
 </div>
