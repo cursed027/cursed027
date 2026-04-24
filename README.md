@@ -3,12 +3,13 @@
 <div align="center">
 
 <!-- 🔁 REPLACE the src below with your chosen gif URL or repo path e.g. ./assets/cozy.gif -->
-<! <img src="https://64.media.tumblr.com/ecc6aa30cfb7830a0a585dfa4255e767/5f94298d0afc2598-42/s1280x1920/33c8824b5a07117b96cc192fd886a8c4f1af8ac4.gifv" width="220" alt="cozy gif"/> -->
 
 <!-- Typing SVG Banner — Space Grotesk font, warm red tone -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=28&duration=3000&pause=1000&color=FF4655&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Milan+Kumar+Singh+%F0%9F%91%8B;Deep+Learning+Researcher;Image+Restoration+%7C+Super-Resolution;CVPRW+2026+%7C+NTIRE+Competitor)](https://git.io/typing-svg)
 
 <img src="https://komarev.com/ghpvc/?username=cursed027&style=flat-square&color=FF4655" alt="Profile views"/>
+
+<! <img src="https://64.media.tumblr.com/ecc6aa30cfb7830a0a585dfa4255e767/5f94298d0afc2598-42/s1280x1920/33c8824b5a07117b96cc192fd886a8c4f1af8ac4.gifv" width="220" alt="cozy gif"/> -->
 
 </div>
 
