@@ -13,7 +13,7 @@ NOT DONR YET 🍥🍀🀄⛩️<!-- ============================================
 
 </div>
 
-![NOT DONE YET](https://img.shields.io/badge/NOT_DONE_YET_🍥🍀🀄⛩️-ff6b6b?style=flat-square&labelColor=2f3542)
+![NOT DONE YET](https://img.shields.io/badge/NOT_DONE_YET_🍥🍀🀄⛩️-2f3542?style=flat-square&labelColor=ff6b6b)
 &nbsp;
 
 ## 🧠 About Me
