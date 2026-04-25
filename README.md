@@ -1,6 +1,5 @@
-NOT DONR YET 🍥🍀🀄⛩️<!-- ============================================================ -->
-<!--  LAYOUT 1 (default): Gif full-width, intro stacked below    -->
-<!--  To switch to LAYOUT 2: see swap instructions at the bottom  -->
+<!-- ============================================================ -->
+<!--  INTRODUCTION   -->
 <!-- ============================================================ -->
 
 <div align="center">
@@ -21,7 +20,7 @@ NOT DONR YET 🍥🍀🀄⛩️<!-- ============================================
 ```python
 milan = {
     "institution" : "NIT Surat — B.Tech EE (CGPA: 9.02)",
-    "focus"       : ["Image Restoration", "Super-Resolution", "Hyperspectral Imaging"],
+    "focus"       : ["ML-DL Engineer","Data Science","Computer Vision","ML-DL Resaercher"],
     "papers"      : ["CVPRW 2026 (MELD-SR)", "Springer CCIS — NCVPRIPG 2025 (PRISM)"],
     "role"        : "Research Head @ Sillycon AI Labs",
     "competing"   : "NTIRE 2025 & 2026 — Top-20 finishes across 4 tracks",
