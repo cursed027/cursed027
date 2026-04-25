@@ -1,11 +1,24 @@
-<!-- GIF floated right so typing SVG + badge sit naturally to its left -->
-<img src="https://64.media.tumblr.com/ecc6aa30cfb7830a0a585dfa4255e767/5f94298d0afc2598-42/s1280x1920/33c8824b5a07117b96cc192fd886a8c4f1af8ac4.gifv" align="right" width="400" alt="cozy gif"/>
+<!-- ============================================================ -->
+<!--  LAYOUT 1 (default): Gif full-width, intro stacked below    -->
+<!--  To switch to LAYOUT 2: see swap instructions at the bottom  -->
+<!-- ============================================================ -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=28&duration=3000&pause=1000&color=FF4655&center=false&vCenter=true&width=550&lines=Hi%2C+I'm+Milan+Kumar+Singh+%F0%9F%91%8B;Deep+Learning+Researcher;Image+Restoration+%7C+Super-Resolution;CVPRW+2026+%7C+NTIRE+Competitor)](https://git.io/typing-svg)
+<div align="center">
+<img src="https://64.media.tumblr.com/ecc6aa30cfb7830a0a585dfa4255e767/5f94298d0afc2598-42/s1280x1920/33c8824b5a07117b96cc192fd886a8c4f1af8ac4.gifv" width="100%" alt="cozy gif"/>
+</div>
 
+<br/>
+
+<h2>Hi, I'm Milan Kumar Singh 👋</h2>
+
+<p>
+🤖 <b>ML —</b> Pattern hunter. Model maker. Chaos tamer.<br/>
+🧠 <b>DL —</b> Vision architect. Feature sculptor. Signal finder in a sea of noise.
+</p>
+
+![NOT DONE YET](https://img.shields.io/badge/NOT_DONE_YET_🔧-FF4655?style=flat-square&labelColor=1a1a2e)
+&nbsp;
 <img src="https://komarev.com/ghpvc/?username=cursed027&style=flat-square&color=FF4655" alt="Profile views"/>
-
-<br clear="right"/>
 
 ---
 
@@ -75,7 +88,7 @@ milan = {
 
 ## 📊 GitHub Stats
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=cursed027&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=cursed027&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0d1117&title_color=FF4655&icon_color=FF4655&text_color=c9d1d9&ring_color=FF4655"/>
 
 ---
 
@@ -102,8 +115,27 @@ milan = {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Milan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/milan27)
-[![GitHub](https://img.shields.io/badge/-cursed027-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cursed027)
-[![Email](https://img.shields.io/badge/-milanpvt027@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:milanpvt027@gmail.com)
+<a href="https://www.linkedin.com/in/milan27"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://github.com/cursed027"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="mailto:milanpvt027@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
 </div>
+
+<!-- ============================================================ -->
+<!--  LAYOUT 2 SWAP INSTRUCTIONS                                   -->
+<!--  Replace everything from the top down to <br/> with this:    -->
+<!--                                                               -->
+<!--  <img                                                         -->
+<!--    src="https://64.media.tumblr.com/ecc6aa30cfb7830a0a585dfa4255e767/5f94298d0afc2598-42/s1280x1920/33c8824b5a07117b96cc192fd886a8c4f1af8ac4.gifv"  -->
+<!--    align="right" width="420" alt="cozy gif"/>                 -->
+<!--                                                               -->
+<!--  <h2>Hi, I'm Milan Kumar Singh 👋</h2>                       -->
+<!--  <p>                                                          -->
+<!--  🤖 <b>ML —</b> Pattern hunter. Model maker. Chaos tamer.<br/>-->
+<!--  🧠 <b>DL —</b> Vision architect. Feature sculptor. Signal finder in a sea of noise. -->
+<!--  </p>                                                         -->
+<!--  ![NOT DONE YET](https://img.shields.io/badge/NOT_DONE_YET_🔧-FF4655?style=flat-square&labelColor=1a1a2e) -->
+<!--  &nbsp;                                                        -->
+<!--  <img src="https://komarev.com/ghpvc/?username=cursed027&style=flat-square&color=FF4655"/> -->
+<!--  <br clear="right"/>                                           -->
+<!-- ============================================================ -->
