@@ -9,7 +9,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=26&duration=3000&pause=1200&color=FF4655&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Milan+Kumar+Singh+%F0%9F%91%8B;ML+%E2%80%94+Extracting+the+signal.+Engineering+the+logic.+Building+models+that+scale.;DL+%E2%80%94+Vision+architectures.+Reconstructing+reality+,+pixel+by+pixel.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=26&duration=3000&pause=1200&color=FF4655&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Milan+Kumar+Singh+%F0%9F%91%8B;ML+%E2%80%94+Engineering+the+logic.+Building+models+that+scale.;DL+%E2%80%94+Vision+architectures.+Reconstructing+reality+.)](https://git.io/typing-svg)
 
 </div>
 
