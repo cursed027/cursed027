@@ -1,12 +1,19 @@
-<img src="https://64.media.tumblr.com/ecc6aa30cfb7830a0a585dfa4255e767/5f94298d0afc2598-42/s1280x1920/33c8824b5a07117b96cc192fd886a8c4f1af8ac4.gifv" align="right" width="420" alt="cozy gif"/>
+<table>
+<tr>
+<td valign="middle" width="55%">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=26&duration=3000&pause=1200&color=FF4655&center=false&vCenter=true&width=600&lines=Hi%2C+I'm+Milan+Kumar+Singh+%F0%9F%91%8B;ML+%E2%80%94+Pattern+hunter.;DL+%E2%80%94+Vision+architect.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=26&duration=3000&pause=1200&color=FF4655&center=false&vCenter=true&width=500&lines=Hi%2C+I'm+Milan+Kumar+Singh+%F0%9F%91%8B;ML+%E2%80%94+Pattern+hunter.+Model+maker.+Chaos+tamer.;DL+%E2%80%94+Vision+architect.+Signal+in+the+noise.)](https://git.io/typing-svg)
 
 ![NOT DONE YET](https://img.shields.io/badge/NOT_DONE_YET_🔧-FF4655?style=flat-square&labelColor=1a1a2e)
 &nbsp;
-<img src="https://komarev.com/ghpvc/?username=cursed027&style=flat-square&color=FF4655" alt="Profile views"/>
+<img src="https://komarev.com/ghpvc/?username=cursed027&style=flat-square&color=FF4655"/>
 
-<br clear="right"/>                 
+</td>
+<td width="45%">
+<img src="https://64.media.tumblr.com/ecc6aa30cfb7830a0a585dfa4255e767/5f94298d0afc2598-42/s1280x1920/33c8824b5a07117b96cc192fd886a8c4f1af8ac4.gifv" width="100%" alt="cozy gif"/>
+</td>
+</tr>
+</table>              
 
 
 ---
