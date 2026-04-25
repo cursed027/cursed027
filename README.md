@@ -1,4 +1,4 @@
-<!-- ============================================================ -->
+e<!-- ============================================================ -->
 <!--  LAYOUT 1 (default): Gif full-width, intro stacked below    -->
 <!--  To switch to LAYOUT 2: see swap instructions at the bottom  -->
 <!-- ============================================================ -->
@@ -13,7 +13,7 @@
 
 </div>
 
-![NOT DONE YET](https://img.shields.io/badge/NOT_DONE_YET_🔧-FF4655?style=flat-square&labelColor=1a1a2e)
+![NOT DONE YET](https://img.shields.io/badge/NOT_DONE_YET_🍥🍀🍁-FF4655?style=flat-square&labelColor=1a1a2e)
 &nbsp;
 
 ## 🧠 About Me
