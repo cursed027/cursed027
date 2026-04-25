@@ -10,13 +10,12 @@
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=26&duration=3000&pause=1200&color=FF4655&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Milan+Kumar+Singh+%F0%9F%91%8B;ML+%E2%80%94+Pattern+hunter.+Model+maker.+Chaos+tamer.;DL+%E2%80%94+Vision+architect.+Signal+in+the+noise.)](https://git.io/typing-svg)
-    
-![NOT DONE YET](https://img.shields.io/badge/NOT_DONE_YET_🔧-FF4655?style=flat-square&labelColor=1a1a2e)
-
-<div align="left">
 
 </div>
 
+![NOT DONE YET](https://img.shields.io/badge/NOT_DONE_YET_🔧-FF4655?style=flat-square&labelColor=1a1a2e)
+&nbsp;
+<img src="https://komarev.com/ghpvc/?username=cursed027&style=flat-square&color=FF4655" alt="Profile views"/>
 
 ## 🧠 About Me
 
